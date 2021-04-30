@@ -6,6 +6,9 @@
 # I've added additional PowerShell modules or software
 # that you might not have
 
+# Install PSTeachingTools used in Video from PowerShell Gallery (mb)
+Install-Module -Name PSTeachingTools
+
 Get-Command
 
 #I'm going to substitute some demo commands I have
@@ -13,6 +16,7 @@ Get-Command *vegetable*
 
 #notice all the different types of commands
 Get-Command *service*
+
 #I'll refine the command
 Get-Command *service
 
