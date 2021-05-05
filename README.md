@@ -6,3 +6,7 @@
 - Require access to PowerShell Gallery
 - Install Windows Terminal
 - M5-D1 Add PSTeachingTools
+
+# Changes from video to labs
+- Skip Module 03 due to internet access
+- 
