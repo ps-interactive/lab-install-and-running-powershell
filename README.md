@@ -9,4 +9,4 @@
 
 # Changes from video to labs
 - Skip Module 03 due to internet access
-- 
+- Skip Module 02 
